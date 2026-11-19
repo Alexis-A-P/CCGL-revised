@@ -1,6 +1,6 @@
 export const sources={
  netflix:'https://jobs.netflix.com/culture',
- noRules:'https://www.penguinrandomhouse.com/books/609713/no-rules-rules-by-reed-hastings-and-erin-meyer/',
+ noRules:'https://www.penguinrandomhouse.com/books/606529/no-rules-rules-by-reed-hastings-and-erin-meyer/',
  wells:'https://www.sec.gov/Archives/edgar/data/72971/000119312517118654/d375947ddefa14a.htm',
  wellsReview:'https://www.sec.gov/Archives/edgar/data/0000072971/000007297117000428/wfcexhibit99108312017.htm',
  doj:'https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices',
